@@ -7,6 +7,7 @@
 
    canvas_layers
    2d_transforms
+   coordinate_systems
    using_tilemaps
    particle_systems_2d
    2d_movement
